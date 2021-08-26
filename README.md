@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev and Competitive Coding
 - 🌱 I’m currently learning BlockChain managment and React
 - 💞️ Looking forward to collaborate on Web projects
-- 📫 How to reach me on insta @ramit_sarkar
+- 📫Contact me on insta @ramit_sarkar or email.
 
 <!---
 ramitsarkar902/ramitsarkar902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
