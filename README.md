@@ -5,6 +5,9 @@
 - 💞️ Looking forward to collaborate on Web projects
 - 📫Contact me on insta @ramit_sarkar or email.
 
+![](https://img.shields.io/badge/<Tools>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 
 
 <!---
