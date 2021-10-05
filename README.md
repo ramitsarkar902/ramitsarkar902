@@ -12,3 +12,6 @@ ramitsarkar902/ramitsarkar902 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ramitsarkar902>&theme=<THEME_NAME>" />
+
