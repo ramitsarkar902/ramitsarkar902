@@ -1,3 +1,4 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 Hi, I’m Ramitsarkar
 - 👀 I’m interested in Web Dev and Competitive Coding
 - 🌱 I’m currently learning BlockChain managment and React
