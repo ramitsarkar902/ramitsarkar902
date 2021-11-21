@@ -29,7 +29,8 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkushwaah&theme=react&hide_border=true" />
   </a>
 </p>
-<h4 align='center'><strong>Tools I use: </strong><img src="https://slackmojis.com/emojis/6017-meow_cookie/download" width="25"></h4>
+<!---tools used--->
+<h4 align='center'><strong>Tools I use: </strong><img src="https://images.emojiterra.com/google/noto-emoji/unicode-13.1/share/1f431.jpg" width="25"></h4>
 <p  align='center'>
  <img alt="vscode" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
