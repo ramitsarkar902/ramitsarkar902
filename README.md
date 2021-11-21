@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center"># Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 - 👋 Hi, I’m Ramit Sarkar
 - 👀 I’m interested in Web Dev and Competitive Coding
 - 🌱 I’m currently learning BlockChain managment and React
