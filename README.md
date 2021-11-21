@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Dev and Competitive Coding
 - 🌱 I’m currently learning BlockChain managment and React
 - 💞️ Looking forward to collaborate on Web projects
-- 📫Contact me on insta @ramit_sarkar or email.
+- 📫Contact me on insta @ramit_sarkar or email-ramitsarkar902@gmail.com.
 
 <!--![](https://img.shields.io/badge/<Tools>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
@@ -14,8 +14,8 @@
 ramitsarkar902/ramitsarkar902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <h3> &#x1f4c8; Contribution Graph</h3>
 <p align="center">
