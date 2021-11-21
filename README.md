@@ -16,5 +16,10 @@ You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3> &#x1f4c8; Contribution Graph</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=harshkushwaah&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
+</p>
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ramitsarkar902>&theme=<THEME_NAME>" />-->
 
