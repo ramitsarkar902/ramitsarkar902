@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Dev and Competitive Coding
 - 🌱 I’m currently learning BlockChain managment and React
 - 💞️ Looking forward to collaborate on Web projects
-- 📫Contact me on insta @ramit_sarkar or email-ramitsarkar902@gmail.com.
+
 
 <!--![](https://img.shields.io/badge/<Tools>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
@@ -46,4 +46,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img alt="Ramit's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ramitsarkar902&theme=react&hide_border=true"/>
 </p>
-
+<h4 align="center"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
+<p align="center">
+ <a href="https://t.me/helloworld6912"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/ramit_sarkar"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+</p>
