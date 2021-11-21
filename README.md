@@ -14,7 +14,7 @@
 ramitsarkar902/ramitsarkar902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div></div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> &#x1f4c8; Contribution Graph</h3>
