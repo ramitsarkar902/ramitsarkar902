@@ -1,9 +1,8 @@
 <p align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-#
-- 👋 Hi, I’m Ramit Sarkar
-- 👀 I’m interested in Web Dev and Competitive Coding
-- 🌱 I’m currently learning BlockChain managment and React
-- 💞️ Looking forward to collaborate on Web projects
+<p align="center">👋 Hi, I’m Ramit Sarkar</p>
+<p align="center">👀 I’m interested in Web Dev and Competitive Coding</p>
+<p align="center">🌱 I’m currently learning BlockChain managment and React</p>
+<p align="center"> 💞️ Looking forward to collaborate on Web projects</p>
 
 
 <!--![](https://img.shields.io/badge/<Tools>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
