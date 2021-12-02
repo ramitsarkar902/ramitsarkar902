@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ## &#x1F680; GitHub Stats
 <p align="center">
   <a align="center" href="https://github.com/harshkushwaah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramitsarkar902&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Harsh's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramitsarkar902&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Ramit's GitHub Stats" />
   </a>
  </p>
 <h3> &#128202; Contribution Stats</h3>
