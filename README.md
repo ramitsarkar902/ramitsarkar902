@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ## &#x269B; Language Stats
 <p align="center">
   <a align="center" href="https://github.com/harshkushwaah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkushwaah&theme=react&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitsarkar902&theme=react&hide_border=true" />
   </a>
 </p>
 <!---tools used--->
