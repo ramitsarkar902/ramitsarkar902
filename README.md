@@ -3,6 +3,7 @@
 <p align="center">👀 I’m interested in Web Dev and Competitive Coding</p>
 <p align="center">🌱 I’m currently learning BlockChain managment and React</p>
 <p align="center"> 💞️ Looking forward to collaborate on Web projects</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ramitsarkar902&label=Profile%20views&color=0e75b6&style=flat" alt="ramit" /></p>
 
 
 <!--![](https://img.shields.io/badge/<Tools>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
