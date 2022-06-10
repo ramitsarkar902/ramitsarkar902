@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ramitsarkar902>&theme=<THEME_NAME>" />-->
 ## &#x269B; Language Stats
 <p align="center">
-  <a align="center" href="https://github.com/harshkushwaah">
+  <a align="center" href="https://github.com/ramitsarkar902">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitsarkar902&theme=react&hide_border=true" />
   </a>
 </p>
