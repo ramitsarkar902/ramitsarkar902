@@ -18,18 +18,21 @@ You can click the Preview link to take a look at your changes.
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<h3> &#x1f4c8; Contribution Graph</h3>
+<h4> &#x1f4c8; Contribution Graph</h4>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ramitsarkar902&theme=react-dark&hide_border=true" alt="ramit"></p>
+<hr>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ramitsarkar902&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramitsarkar902&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramitsarkar902&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitsarkar902&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+</p>
+ </a>
 </p>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ramitsarkar902>&theme=<THEME_NAME>" />-->
-## &#x269B; Language Stats
-<p align="center">
-  <a align="center" href="https://github.com/ramitsarkar902">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramitsarkar902&theme=react&hide_border=true" />
-  </a>
-</p>
+
 <!---tools used--->
 <h4 align='center'><strong>Tools I use: </strong><img src="https://images.emojiterra.com/google/noto-emoji/unicode-13.1/share/1f431.jpg" width="25"></h4>
 <p  align='center'>
