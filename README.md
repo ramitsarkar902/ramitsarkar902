@@ -36,7 +36,8 @@ You can click the Preview link to take a look at your changes.
 <h4 align='center'><strong>Tools I use: </strong><img src="https://images.emojiterra.com/google/noto-emoji/unicode-13.1/share/1f431.jpg" width="25"></h4>
 <p  align='center'>
  <img alt="vscode" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
-</p>
+  <img alt="docker" src="https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo.png"/>
+</p> 
 
 
 ## &#x1F680; GitHub Stats
@@ -52,4 +53,5 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center"><strong>Contact Me </strong><img src="https://slackmojis.com/emojis/6020-meow_headache/download" width="25"></h4>
 <p align="center">
  <a href="https://t.me/helloworld6912"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/ramit_sarkar"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+ <a href="https://t.me/helloworld6912"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.linkedin.com/in/ramit-sarkar-bb26581ba/"><img alt="TF" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473"/><a> 
 </p>
