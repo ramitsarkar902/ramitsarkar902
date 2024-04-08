@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramitsarkar902&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-<h4> &#x1f4c8; Contribution Graph</h4>
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=ramitsarkar902&theme=react-dark&hide_border=true" alt="ramit"></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramitsarkar902" alt="sakshishah29" /></a> </p>
 <hr>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramitsarkar902&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&count_private=true" />
